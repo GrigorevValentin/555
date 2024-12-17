@@ -6,7 +6,7 @@ import java.util.List;
 
 public class UserServiceImpl implements UserService {
     public void createUsersTable() {
-
+qwe
     }
 
     public void dropUsersTable() {
